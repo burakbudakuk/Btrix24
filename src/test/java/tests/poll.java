@@ -4,8 +4,8 @@ public class poll {
 
 public void school(){;
     
-    System.out.println("love your school")
-        System.out.println("love")
+    System.out.println("love your school");
+        System.out.println("love");
     }
 
 
